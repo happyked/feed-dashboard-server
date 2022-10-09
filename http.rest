@@ -1,0 +1,12 @@
+GET http://localhost:3000/sentinelone
+Content-Type: application/json
+
+###
+
+GET http://localhost:3000/bleepingcomputer
+Content-Type: application/json
+
+###
+
+GET http://localhost:3000/microsoft
+Content-Type: application/json
